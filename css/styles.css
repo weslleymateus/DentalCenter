@@ -180,6 +180,7 @@ section.about p::first-letter {
     text-align: center;
     padding: 15px;
     color: #fff;
+    margin-top: 20px;
 }
 
 .imgs-left {
@@ -237,6 +238,7 @@ li {
     text-align: center;
     padding: 15px;
     color: #fff;
+    margin-top: 20px;
 }
 
 .imgs-rigth {
